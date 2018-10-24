@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
 
+## Pre-requisites
+- [NodeJS v.10.x](https://nodejs.org/en/)
+- [Angular CLI v.7.0.2](https://github.com/angular/angular-cli)
+
+## Installation
+
+1. `git clone https://github.com/kyle-angus/angular-guild-ui .`
+2. `cd angular-guild-ui`
+3. `npm install`
+4. `ng serve`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
